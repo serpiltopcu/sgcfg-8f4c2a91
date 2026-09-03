@@ -1,7 +1,7 @@
 {
   "ios": {
     "minimumVersion": "1.1.7",
-    "mandatory": true,
+    "mandatory": false,
     "storeUrl": "https://apps.apple.com/app/id6783930004"
   },
   "android": {

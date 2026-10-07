@@ -1,6 +1,6 @@
 {
   "ios": {
-    "minimumVersion": "1.0.5",
+    "minimumVersion": "1.2.4",
     "mandatory": false,
     "storeUrl": "https://apps.apple.com/app/id6783930004"
   },

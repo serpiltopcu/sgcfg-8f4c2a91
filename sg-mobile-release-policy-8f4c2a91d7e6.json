@@ -5,8 +5,8 @@
     "storeUrl": "https://apps.apple.com/app/id6783930004"
   },
   "android": {
-    "minimumVersion": "1.0.7",
-    "mandatory": false,
+    "minimumVersion": "1.2.3",
+    "mandatory": true,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.serpilbosnali.smartgallery"
   },
   "premiumResetIds": [
